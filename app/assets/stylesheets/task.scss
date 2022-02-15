@@ -1,0 +1,15 @@
+// Place all the styles related to the Task controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.container{
+  background-color: rgb(223, 231, 255);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px auto;
+  font-size: large;
+}
+
+h1 {
+  align-items: center;
+}
